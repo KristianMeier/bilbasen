@@ -152,6 +152,14 @@ const Data = {
       },
     },
   ],
+  inspiration: [
+    '7 sæder',
+    'Økonomisk',
+    'Elbil',
+    'Automatgear',
+    'Bybil',
+    'Cabriolet',
+  ],
   carsSecondSection: [
     [
       ['Audi', 'A1', 'A3', 'A4', 'A5', 'A6'],
